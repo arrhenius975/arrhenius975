@@ -7,12 +7,12 @@ I'm a Computer Science and Engineering student with a deep interest in cybersecu
 Here’s a bit more about what I’m up to:
 - 🔍 Cybersecurity: Focused on vulnerability research, exploit development, and network defense. I enjoy building scripts and tools for network scanning and pentesting.
 - 🔧 Embedded Systems: Working on a project to repurpose an Android motherboard as a gaming console, diving deep into hardware-software integration.
-- 🖥 OS & Kernel Development: Passionate about understanding the underlying architecture of systems and contributing to open-source projects that push OS capabilities.
+- 🖥 OS & Kernel Development: Passionate about understanding the underlying architecture of systems and contributing to open-source projects that push OS capabilities. Currently developing DevDroid-ROM, a custom Android ROM designed to create an integrated development environment on Android devices, enabling native coding with a built-in Bash shell, Python interpreter, and GCC toolchain.
 - ⚙️ Skills: Proficient in C, C++, Python, Bash scripting, and networking.
 - 🎓 Certification: Currently ongoing Full Networking & CCNA prep guidance By David Through Udemy
 
 ### Projects: 
--  [📱 Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment. It includes a built-in Bash shell, Python interpreter, and GCC/Clang               toolchain, enabling seamless coding, compiling, and scripting directly on Android—no external tools needed.
+-  [📱 Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment for developers.
 -  [🔒 Network Port Scanner](link-to-project): A terminal-based tool for scanning network vulnerabilities.
 -  [📱 Embedded Android Console](link-to-project): Repurposing a mobile motherboard to function as a gaming console.
 
