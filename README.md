@@ -11,11 +11,10 @@ Here’s a bit more about what I’m up to:
 - ⚙️ Skills: Proficient in C, C++, Python, Bash scripting, and networking.
 - 🎓 Certification: Currently ongoing Full Networking & CCNA prep guidance By David Through Udemy
 
-### Projects:
--[Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment. It includes a built-in Bash shell, Python interpreter, and GCC/Clang toolchain, enabling seamless coding, compiling, and
-  scripting directly on Android—no external tools needed. 
-- [🔒 Network Port Scanner](link-to-project): A terminal-based tool for scanning network vulnerabilities.
-- [📱 Embedded Android Console](link-to-project): Repurposing a mobile motherboard to function as a gaming console.
+### Projects: 
+-  [🔒 Network Port Scanner](link-to-project): A terminal-based tool for scanning network vulnerabilities.
+-  [Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment. It includes a built-in Bash shell, Python interpreter, and GCC/Clang               toolchain, enabling seamless coding, compiling, and scripting directly on Android—no external tools needed.
+-  [📱 Embedded Android Console](link-to-project): Repurposing a mobile motherboard to function as a gaming console.
 
 ### Contacts:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zakaria-talukdar-635419257) or @ zakariatalukdar123@gmail.com to reach out for collaborations, suggestions, or a quick chat on tech!
