@@ -12,7 +12,7 @@ Here’s a bit more about what I’m up to:
 - 🎓 Certification: Currently ongoing Full Networking & CCNA prep guidance By David Through Udemy
 
 ### Projects:
-- Devdroid-ROM: a custom AOSP-based ROM offering a secure, integrated development environment. It includes a built-in Bash shell, Python interpreter, and GCC/Clang toolchain, enabling seamless coding, compiling, and
+- Devdroid-ROM(https://github.com/arrhenius975/Devdroid-ROM): a custom AOSP-based ROM offering a secure, integrated development environment. It includes a built-in Bash shell, Python interpreter, and GCC/Clang toolchain, enabling seamless coding, compiling, and
   scripting directly on Android—no external tools needed. 
 - [🔒 Network Port Scanner](link-to-project): A terminal-based tool for scanning network vulnerabilities.
 - [📱 Embedded Android Console](link-to-project): Repurposing a mobile motherboard to function as a gaming console.
