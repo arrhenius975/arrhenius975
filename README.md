@@ -10,7 +10,7 @@ Here’s a bit more about what I’m up to:
 - 🔧 Embedded Systems: Working on a project to repurpose an Android motherboard as a gaming console, diving deep into hardware-software integration.
 - 🖥 OS & Kernel Development: Passionate about understanding the underlying architecture of systems and contributing to open-source projects that push OS capabilities. Currently developing DevDroid-ROM, a custom Android ROM designed to create an integrated development environment on Android devices, enabling native coding with a built-in Bash shell, Python interpreter, and GCC toolchain.
 - ⚙️ Skills: Proficient in C, C++, Python, Bash scripting, and networking.
-- 🎓 Certification: Currently ongoing Full Networking & CCNA prep guidance By David Through Udemy
+- 🎓 Certification: Full Networking & CCNA prep guidance By David Through Udemy
 
 ### Projects: 
 -  [📱 Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment for developers.
