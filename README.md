@@ -14,8 +14,6 @@ Here’s a bit more about what I’m up to:
 
 ### Projects: 
 -  [📱 Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment for developers.
--  [🔒 Network Port Scanner](link-to-project): A terminal-based tool for scanning network vulnerabilities.
--  [📱 Embedded Android Console](link-to-project): Repurposing a mobile motherboard to function as a gaming console.
 
 ### Contacts:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zakaria-talukdar-635419257) or @ zakariatalukdar123@gmail.com to reach out for collaborations, suggestions, or a quick chat on tech!
