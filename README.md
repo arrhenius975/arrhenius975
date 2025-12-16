@@ -13,7 +13,8 @@ Here’s a bit more about what I’m up to:
 - 🎓 Certification: Full Networking & CCNA prep guidance By David Through Udemy
 
 ### Projects: 
--  [📱 Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment for developers.
+-  [Devdroid-ROM](https://github.com/arrhenius975/Devdroid-ROM): A custom AOSP-based ROM offering a secure, integrated development environment for developers.
+-  [SQL-SMITH](https://sql-smith.vercel.app): A sql generator for sql query generation
 
 ### Contacts:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/a-r-zakaria-talukdar-635419257/) or @ zakariatalukdar123@gmail.com to reach out for collaborations, suggestions, or a quick chat on tech!
