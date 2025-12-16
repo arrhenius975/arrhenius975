@@ -14,7 +14,6 @@ I'm a Computer Science and Engineering student focused on vulnerability research
 - [Current Work](#current-work)
 - [Certifications & Learning](#certifications--learning)
 - [Contact](#contact)
-- [Suggestions to improve this README](#suggestions-to-improve-this-readme)
 
 ---
 
