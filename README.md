@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Zak
 
-Low-level Developer | C/C++ | ASM | OS & Device Driver Development | Linux Internals
+Low-level Developer | C/C++ | ASM | OS & Device Driver Development | Linux Internals | Astronomy and Astrophysics Simulation Developer
 
 Aspiring Cybersecurity & Embedded Systems Engineer  
 Passionate about embedded systems development, OS/kernel development, penetration testing, and network security.
 
-I'm a Computer Science and Engineering student focused on vulnerability research, exploit development, and hardware-software integration. I enjoy building tools for network scanning and pentesting, and experimenting with low-level system design.
+I'm a Computer Science and Engineering student focused on operating system development, vulnerability research, exploit development, and hardware-software integration. I enjoy building tools for network scanning and pentesting, and experimenting with low-level system design.
 
 ---
 
@@ -26,6 +26,7 @@ I'm a Computer Science and Engineering student focused on vulnerability research
 - Love cars and mechanical machines.
 - I like to learn physics and mathematics.
 - Love to design Hardware (electronic systems/ digital design and Computer architecture)
+- Love to work on Astronomy and Astrophysics
 
 ## Skills
 - Languages: C, C++, Python, Bash, ASM (x86_64, x86_32, ARM32, ARM64), C#, Go, Javascript, React, Rust, TypeScript, LateX.
