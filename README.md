@@ -31,7 +31,7 @@ I'm a Computer Science and Engineering student focused on operating system devel
 ## Skills
 - Languages: C, C++, Python, Bash, ASM (x86_64, x86_32, ARM32, ARM64), C#, Go, Javascript, React, Rust, TypeScript, LateX.
 - Systems: Linux (kernel/devices), AOSP/Android, embedded Linux
-- Networking & Security: TCP/IP, Nmap, Wireshark, basic exploit development, pentesting tooling
+- Networking & Security: TCP/IP, Nmap, Wireshark, intermediate exploit development, pentesting tooling
 - Tools: git, GDB, buildroot/AOSP build system, cross-compilation toolchains
 
 ## Projects (Actively updating over time will add more)
