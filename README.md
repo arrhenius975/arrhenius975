@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zak
 
-Low-level Developer | C/C++ | ASM | OS & Device Driver Development | Linux Internals | Astronomy and Astrophysics Simulation Developer
+Low-level Developer | C/C++ | ASM | OS & Device Driver Development | Linux Internals | Simulation & Emulation Developer
 
 Aspiring Cybersecurity & Embedded Systems Engineer  
 Passionate about embedded systems development, OS/kernel development, penetration testing, and network security.
